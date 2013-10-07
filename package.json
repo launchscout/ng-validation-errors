@@ -1,11 +1,11 @@
 {
-  "name": "your-lib-name-here",
+  "name": "ng-error-messages",
   "version": "0.0.1",
-  "description": "A description about how Lineman helped you build your lib",
+  "description": "Error messages directive",
   "homepage": "https://your/lib/name/here",
   "author": {
-    "name": "Justin Searls (or your name)",
-    "company": "Test Double, LLC (or your company)"
+    "name": "Chris Nelson",
+    "company": "Gaslight"
   },
   "main": "main.js",
   "dependencies": {
